@@ -32,11 +32,3 @@ Touches prevues pour clavier **azerty** :
 | quitter | echap | 0xff1b | idem |
 
 pour clavier qwerty changer les codes touches dans le cub3d.h
-
-## Maths utilisées dans ce projet
-
-### le personnage dans le labyrinthe
-
-### les murs
-
-### les sprites
